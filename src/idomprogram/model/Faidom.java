@@ -22,7 +22,7 @@ public abstract class Faidom {
 
     @Override
     public String toString() {
-        return "Faidom{" + "fajsuly=" + fajsuly + '}';
+        return "Faidom\u22b2--";
     }
   
   

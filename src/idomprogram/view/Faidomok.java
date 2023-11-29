@@ -20,6 +20,10 @@ public class Faidomok {
     }
 
     public void run() {
+        for (int i = 0; i < idomok.size(); i++) {
+            System.out.println(idomok.get(i));
+            
+        }
         System.out.println(osszSuly());
         System.out.println(osszGombSuly());
         System.out.println(minV());
